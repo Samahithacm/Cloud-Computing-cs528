@@ -1,0 +1,10 @@
+Found 4999 files
+
+Top 5 Word Bigrams:
+  'amet consectetur': 941262
+  'sit amet': 941262
+  'dolor sit': 941262
+  'ipsum dolor': 941262
+  'lorem ipsum': 941262
+
+Total pipeline runtime: 97.33 seconds

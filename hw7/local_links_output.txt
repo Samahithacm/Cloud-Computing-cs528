@@ -1,0 +1,17 @@
+Found 3999 files
+
+Top 5 Files by Outgoing Links:
+  12090.html: 374 links
+  11078.html: 374 links
+  12425.html: 374 links
+  11548.html: 374 links
+  10588.html: 374 links
+
+Top 5 Files by Incoming Links:
+  4969.html: 67 links
+  18899.html: 67 links
+  8367.html: 62 links
+  14784.html: 62 links
+  18810.html: 60 links
+
+Total pipeline runtime: 3.43 seconds
